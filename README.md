@@ -136,6 +136,6 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais de Orienta√ß√
 
 ---
 
-Desenvolvido por Davi Da Silva Sin
+Desenvolvido por Davi Da Silva Sinfronio
 
 ```
