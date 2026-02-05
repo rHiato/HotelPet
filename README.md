@@ -136,6 +136,6 @@ Este projeto foi desenvolvido para praticar conceitos fundamentais de Orientaç�
 
 ---
 
-Desenvolvido por Davi Da Silva Sinfronio
+Desenvolvido por Davi Da Silva Sinfronio e Kauã Fernandes da Silva
 
 ```
